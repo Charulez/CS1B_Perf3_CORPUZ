@@ -1,0 +1,20 @@
+// CORPUZ CHARLES ADRIAN
+//BSCS-1B
+
+// my favorite singers
+var favSingers = ["Moira", "Ben&Ben", "Arthur"];
+
+// log first singer
+console.log(favSingers[0]);
+
+// my favorite numbers
+var favNumbers = [5, 8, 12, 3];
+
+// mixed array
+var mixedArr = ["string", ["otherarray"], 123, true];
+
+// print items in mixedArr
+console.log(mixedArr[0]);
+console.log(mixedArr[1]);
+console.log(mixedArr[2]);
+console.log(mixedArr[3]);
